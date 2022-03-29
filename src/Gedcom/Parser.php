@@ -1,6 +1,6 @@
 <?php
 
-Treii28\GenealogyGedcom\Gedcom;
+namespace Treii28\GenealogyGedcom\Gedcom;
 
 /**
  * Genealogy_Parser

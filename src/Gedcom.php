@@ -1,6 +1,6 @@
 <?php
 
-Treii28\GenealogyGedcom;
+namespace Treii28\GenealogyGedcom;
 
 /**
  * Genealogy\Gedcom

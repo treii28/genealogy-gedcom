@@ -12,7 +12,7 @@
  * @link     http://pear.php.net/package/Genealogy_Gedcom
  */
 
-Treii28\GenealogyGedcom\Gedcom;
+namespace Treii28\GenealogyGedcom\Gedcom;
 
 /* vim: set expandtab tabstop=4 shiftwidth=4: */
 // +----------------------------------------------------------------------+
