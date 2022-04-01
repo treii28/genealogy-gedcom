@@ -1,8 +1,8 @@
 <?php
 
-
 namespace Treii28\GenealogyGedcom\Gedcom;
 
+use Treii28\GenealogyGedcom\Gedcom\Event;
 
 class Marriage extends Event
 {
