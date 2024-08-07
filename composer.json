@@ -12,7 +12,8 @@
     "homepage": "https://github.com/treii28/genealogy-gedcom",
     "keywords": ["Laravel", "GenealogyGedcom"],
     "require": {
-        "illuminate/support": "~8"
+        "php": "^7.0|^8.0",
+        "illuminate/support": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "~9.0",
