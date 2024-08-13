@@ -96,3 +96,5 @@ Homestead.json
 /.vagrant
 .phpunit.result.cache
 
+/.idea/genealogy-gedcom.iml
+/.idea/modules.xml
